@@ -1,20 +1,20 @@
-# Hi there 👋, I'm Musyoki
+# Hi there, I'm Musyoki
 
-## 🚀 Aspiring Full-Stack Developer
+##  Aspiring Full-Stack Developer
 
 I am a Software Engineering student passionate about building real-world web applications and continuously improving my development skills.
 
 ---
 
-## 🧠 About Me
-- 🎓 Software Engineering student at Kirinyaga University  
-- 💻 Focused on Full-Stack Web Development  
-- 🌱 Currently learning JavaScript  
-- 🎯 Goal: Become a professional Full-Stack Developer  
+##  About Me
+-  Software Engineering student at Kirinyaga University  
+-  Focused on Full-Stack Web Development  
+-  Currently learning JavaScript  
+-  Goal: Become a professional Full-Stack Developer  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 - JavaScript (Learning)
@@ -22,26 +22,26 @@ I am a Software Engineering student passionate about building real-world web app
 
 ---
 
-## 📂 Projects
+##  Projects
 - Portfolio Website  
 - GoldenGen  
 
 ---
 
-## 📫 Contact
+##  Contact
 - GitHub: https://github.com/codewithmusyoki
 
 <!--
-**codewithmusyoki/codewithmusyoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codewithmusyoki/codewithmusyoki** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
