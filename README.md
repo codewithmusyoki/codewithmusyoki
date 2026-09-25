@@ -6,11 +6,13 @@ I am a Software Engineering student passionate about building real-world web app
 
 ---
 
-##  About Me
--  Software Engineering student at Kirinyaga University  
--  Focused on Full-Stack Web Development  
--  Currently learning JavaScript  
--  Goal: Become a professional Full-Stack Developer  
+## About Me
+
+* Software Engineering student at Kirinyaga University
+* Focused on Full-Stack Web Development
+* Currently learning React and Java
+* Building real-world projects to strengthen my development skills
+* Goal: Become a professional Full-Stack Developer
 
 ---
 
