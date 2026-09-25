@@ -28,8 +28,10 @@ I am a Software Engineering student passionate about building real-world web app
 
 ---
 
-##  Contact
-- GitHub: https://github.com/codewithmusyoki
+## Contact
+
+* GitHub: https://github.com/Dev-Musyoki
+
 
 <!--
 **codewithmusyoki/codewithmusyoki** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
